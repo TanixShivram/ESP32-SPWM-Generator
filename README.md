@@ -14,7 +14,7 @@ This project demonstrates the generation of SPWM signals by comparing a 50Hz sin
 *Measured SPWM waveform observed using PicoScope 7 T&M software.*
 
 ### MATLAB Simulation
-![Simulation](assets/MATLAT_Simulation.jpeg)
+![Simulation](assets/MATLAB_Simulation.jpeg)
 *SPWM logic simulation in MATLAB, showing the sine reference and resulting PWM output.*
 
 ## Key Skills
