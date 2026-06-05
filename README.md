@@ -7,14 +7,14 @@ This project demonstrates the generation of SPWM signals by comparing a 50Hz sin
 
 ## Project Visuals
 ### Physical Setup & Validation
-![Physical Setup](picoscope)
+![Physical Setup](assets/picoscope.jpeg)
 *Physical hardware implementation showing the ESP32 connected to the PicoScope.*
 
-![PicoScope Waveform](SPWM_WaveForm)
+![PicoScope Waveform](assets/SPWM_WaveForm.jpeg)
 *Measured SPWM waveform observed using PicoScope 7 T&M software.*
 
 ### MATLAB Simulation
-![Simulation](MATLAT_Simulation)
+![Simulation](assets/MATLAT_Simulation.jpeg)
 *SPWM logic simulation in MATLAB, showing the sine reference and resulting PWM output.*
 
 ## Key Skills
